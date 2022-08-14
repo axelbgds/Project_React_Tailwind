@@ -1,9 +1,9 @@
 Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
 ### Step by Step
-Install NodeJs https://nodejs.org/en/
-npx create-react-app .
-npm i -D Tailwindcss postcss-cli autoprefixer
+Install NodeJs https://nodejs.org/en/ <br>
+npx create-react-app . <br>
+npm i -D Tailwindcss postcss-cli autoprefixer <br>
 
 // Don't forget to delete to rm the folder : public - src - any_field_in_md-js-json
 <br>
