@@ -14,4 +14,3 @@ git clone url_from_small-RJST in the same location
 
 ### Watch APP
 npm start
-
