@@ -6,6 +6,7 @@ npx create-react-app .
 npm i -D Tailwindcss postcss-cli autoprefixer
 
 // Don't forget to delete to rm the folder : public - src - any_field_in_md-js-json
+<br>
 // Need only to keep = node_modules + public
 
 git clone url_from_small-RJST
