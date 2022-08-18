@@ -7,6 +7,5 @@ Simple gallery with images from the pixabay API. Tailwind css is built into work
 Install NodeJs https://nodejs.org/en/ <br>
 
 ### Watch APP
-Terminal : <br>
 npm i <br>
 npm start <br>
